@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-schedule_bg">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="schedule_bg" clip-path="url(#clip-schedule_bg)">
+    <rect width="375" height="812" fill="#e58571"/>
+    <ellipse id="Ellipse_85" data-name="Ellipse 85" cx="51" cy="77" rx="51" ry="77" transform="translate(312 -119)" fill="#f8b1a2" opacity="0.58"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M235.5,0,471,518H0Z" transform="matrix(0.777, 0.629, -0.629, 0.777, 496.187, -133.537)" fill="#fbb6a8" opacity="0.67"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M235.5,0,471,518H0Z" transform="matrix(0.777, 0.629, -0.629, 0.777, 473.187, -133.537)" fill="#fbb6a8" opacity="0.4"/>
+    <ellipse id="Ellipse_86" data-name="Ellipse 86" cx="120.5" cy="122" rx="120.5" ry="122" transform="translate(78.925 -78.593) rotate(93)" fill="#fbb6a8" opacity="0.77"/>
+  </g>
+</svg>
